@@ -9,7 +9,7 @@ You are requested to create your profile using the above link to be a part of it
 
 2. What are the `different types of widgets in Flutter`?
 
-   Two types of widgets present in the Flutter are stateless and stateful.
+   Two types of widgets present in the Flutter are stateless and stateful. 
 
    The stateless widgets don’t store any values which will change in the future. 
    The stateless widgets don’t store any state. Icon, text widgets are some examples of stateless widgets.
